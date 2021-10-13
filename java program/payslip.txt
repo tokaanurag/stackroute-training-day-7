@@ -1,0 +1,4 @@
+Employee Payslip:
+
+Employee Earnning: Name,Salary type,basic,hra,da
+Employee dedction: PF, Tax
