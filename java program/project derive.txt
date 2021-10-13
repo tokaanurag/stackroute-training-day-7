@@ -1,0 +1,18 @@
+Employemanagement 
+pay roll class salary class working class and sub classes pay slip 
+atrribute employee=id ,name , contact no,email,
+salary(spring version -user pass)
+salary attribute - salary id , employee id  amount,  type
+shift time -employee id 
+attendence - employee id ,day ,day of register  no. of days
+pay slip -pay roll ,employee id ,pay roll 
+double 
+methods
+employee curd operation -add,delete , update, search , display,
+salary curd operation 
+pay slip same 
+attendence -same
+salary =tax exception , and 
+
+exit()
+
