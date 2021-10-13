@@ -14,3 +14,7 @@ to Everyone
 6.Write a program to get the contents of a given string as a byte array.
 8.Write a program to get last modified time of a file.
 
+11.Write a program that reads an integer and check whether it is negative, zero, or positive.
+12. Write a program that accepts three numbers from the user and prints "increasing" if the numbers are in increasing order, "decreasing" if the numbers are in decreasing order, and "Neither increasing or decreasing order" otherwise.
+13. Write a program to get seconds since <year>.
+14. Write a method to check whether a string is a valid password.
